@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ZapFood</string>
+    <string name="default_web_client_id" translatable="false">658818986132-n3emahv36nomsmj6rifjv63el4eib86k.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
